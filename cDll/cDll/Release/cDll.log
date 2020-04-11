@@ -1,0 +1,4 @@
+﻿  main.cpp
+     C:\Users\koyjo\Source\Repos\WindowsFormsApp1\Release\cDll.lib 라이브러리 및 C:\Users\koyjo\Source\Repos\WindowsFormsApp1\Release\cDll.exp 개체를 생성하고 있습니다.
+  LINK : /LTCG를 지정했지만 코드를 생성할 필요가 없습니다. 명령줄에서 /LTCG를 제거하면 링커 성능이 향상됩니다.
+  cDll.vcxproj -> C:\Users\koyjo\Source\Repos\WindowsFormsApp1\Release\cDll.dll

@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\koyjo\Source\Repos\cDll\cDll\main.cpp(119,6): warning C4091: 'static ': 변수를 선언하지 않으면 'KoyjoyCLI::CThreadMain' 왼쪽은 무시됩니다.
+  main.obj : 관리되는 코드가 있을 때 /DEBUG:FASTLINK은(는) 지원되지 않습니다. /DEBUG:FULL을 사용하여 링크를 다시 시작합니다.
+  main.obj : MSIL 모듈이 발견되었습니다. MSIL에 증분 링크를 사용할 수 없습니다. 전체 링크를 수행하고 있습니다.
+     C:\Users\koyjo\Source\Repos\WindowsFormsApp1\Debug\cDll.lib 라이브러리 및 C:\Users\koyjo\Source\Repos\WindowsFormsApp1\Debug\cDll.exp 개체를 생성하고 있습니다.
+  cDll.vcxproj -> C:\Users\koyjo\Source\Repos\WindowsFormsApp1\Debug\cDll.dll

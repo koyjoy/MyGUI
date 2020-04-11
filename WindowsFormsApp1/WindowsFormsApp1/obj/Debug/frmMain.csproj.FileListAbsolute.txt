@@ -1,0 +1,13 @@
+C:\Users\koyjo\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\koyjo\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\koyjo\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\koyjo\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\cDll.dll
+C:\Users\koyjo\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\cDll.pdb
+C:\Users\koyjo\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\frmMain.csprojAssemblyReference.cache
+C:\Users\koyjo\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmMain.resources
+C:\Users\koyjo\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\koyjo\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\frmMain.csproj.GenerateResource.cache
+C:\Users\koyjo\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\frmMain.csproj.CoreCompileInputs.cache
+C:\Users\koyjo\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\frmMain.csproj.CopyComplete
+C:\Users\koyjo\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\koyjo\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
